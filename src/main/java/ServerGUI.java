@@ -3,6 +3,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+
 public class ServerGUI extends JFrame implements ActionListener, Thread.UncaughtExceptionHandler {
     private static final int POS_X = 100;
     private static final int POS_Y = 100;
