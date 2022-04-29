@@ -142,7 +142,6 @@ public class Client extends JFrame implements ActionListener, KeyListener, Threa
                 writer.close();
             }
             catch (IOException e1) {
-                // TODO Auto-generated catch block
                 e1.printStackTrace();
             }
 
